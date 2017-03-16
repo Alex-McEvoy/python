@@ -1,0 +1,28 @@
+Person is Kevin Federline
+Is married to: Noone
+Has had coitus with: []
+Has killed: []
+Has herpes?: False
+Is dead?: True
+
+Person is Tiger Woods
+Is married to: Jennifer Lawrence
+Has had coitus with: ['America Ferrera']
+Has killed: ['Kevin Federline']
+Has herpes?: False
+Is dead?: True
+
+Person is America Ferrera
+Is married to: Noone
+Has had coitus with: ['Tiger Woods', 'America Ferrera', 'America Ferrera']
+Has killed: ['America Ferrera']
+Has herpes?: False
+Is dead?: True
+
+Person is Jennifer Lawrence
+Is married to: Tiger Woods
+Has had coitus with: ['Alex McEvoy']
+Has killed: []
+Has herpes?: True
+Is dead?: True
+
